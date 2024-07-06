@@ -1,0 +1,17 @@
+.signup-bg {
+  background-image: url('//img.freepik.com/free-photo/movie-background-collage_23-2149876028.jpg'); /* Update this path */
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .signup {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  

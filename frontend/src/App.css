@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.movie-item {
+  margin: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 200px;
+  text-align: left;
+}
+
+.movie-item img {
+  width: 100%;
+}

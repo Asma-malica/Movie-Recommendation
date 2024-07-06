@@ -1,0 +1,30 @@
+/* Home.css */
+.home-bg {
+  background-image: url('https://e1.pxfuel.com/desktop-wallpaper/986/379/desktop-wallpaper-blue-movie-film-strip-backgrounds-technology-films-thumbnail.jpg'); /* Update this path */
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-content {
+  background-color: rgb(105, 147, 232);
+  padding: 20px;
+  border-radius: 10px; /* Adjusted to make the box more squared */
+  text-align: center;
+}
+
+.home-buttons {
+  margin-top: 30px;
+}
+
+.home-button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  background-color: #0033ff;
+  color: white;
+  border-radius: 5px; /* Adjusted to match the squared box */
+  text-decoration: none;
+  margin-bottom: 70px;
+}
